@@ -1,0 +1,43 @@
+body{
+    background-image: url(/Ortografia/img/fondoAzul.png);
+}
+
+.logo{
+    height: 120px;
+    display: block;
+    margin: auto;
+    padding: 50px;
+    padding-top: 100px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-family: sofia-pro-soft, sans-serif;
+    font-weight: 400;
+}
+
+.thumbnail{
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+
+.buttons{
+    margin: auto;
+    flex-direction: row;
+    width: 1300px;
+    padding-top: 110px;
+}
+
+.game{
+    float: left;
+    width: 33.33%;
+}
+
+.footNubes{
+    height: 267px;
+    position: absolute;
+    bottom:-25%;
+    left: 0%;
+}
